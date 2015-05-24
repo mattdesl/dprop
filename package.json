@@ -1,0 +1,37 @@
+{
+  "name": "dprop",
+  "version": "1.0.0",
+  "description": "tiny util for making enumerable properties",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "prop",
+    "property",
+    "prototype",
+    "define",
+    "defineProperty",
+    "defineProperties",
+    "enumerable",
+    "configurable"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/dprop.git"
+  },
+  "homepage": "https://github.com/mattdesl/dprop",
+  "bugs": {
+    "url": "https://github.com/mattdesl/dprop/issues"
+  }
+}
